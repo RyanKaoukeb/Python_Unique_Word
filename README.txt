@@ -1,0 +1,2 @@
+This is a python script that gathers all the unique words in a file. This python project is the base to the 7th and 8th exercice of the TB3.
+I tried to experiment documentation generation on this code, as well as github actions automation build.
