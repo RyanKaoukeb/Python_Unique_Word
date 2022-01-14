@@ -28,3 +28,4 @@ jobs:
     - name: Test the program
       run: |
         script
+        unittest
